@@ -20,8 +20,6 @@ The dataset represents **one retail company** with multiple outlets and includes
 * Product attributes: Item Type, Fat Content, Item Visibility
 * Performance metrics: Total Sales, Average Sales, Number of Items, Average Rating
 
-> Note: This is not a multi-company dataset. All outlets belong to the same organization.
-
 ## 📈 Dashboard Features
 
 * **KPI Cards**: Total Sales, Average Sales, Number of Items, Average Rating
